@@ -4,7 +4,7 @@
  * and open the template in the editor. test
  */
 package syst17796;
-//change
+//change of the code :)
 /**
  *
  * @author alex
